@@ -1,0 +1,1 @@
+select Nome_Completo, Salario from colaborador order by Salario desc limit 4,6
